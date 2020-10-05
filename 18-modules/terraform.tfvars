@@ -1,0 +1,9 @@
+vpc_cidr = "10.0.0.0/16"
+vpc_name = "gary"
+testIGW_1 = "testIGW_1"
+rt_cidr = "0.0.0.0/0"
+public_sb = "10.0.0.128/25"
+rds_portnuber = "3389"
+server_count = "2"
+ami_id = "ami-022b8726b80fd1330"
+instance_type = ["t2.micro", "t2.small"]

@@ -1,0 +1,1 @@
+use list and map function in the main file for EC2
